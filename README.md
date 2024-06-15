@@ -10,7 +10,7 @@ Sure, let's make the "Interests: Full-Stack Web Development" part more engaging 
 
 - **Age:** 25 years
 
-#### Interests: Full-Stack Web Development
+#### Interests: Software Development
 - **Technologies I Love:**
   - **Frontend:** 
     - JavaScript

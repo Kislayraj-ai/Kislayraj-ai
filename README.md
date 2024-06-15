@@ -35,4 +35,3 @@ Sure, let's make the "Interests: Full-Stack Web Development" part more engaging 
 
 ---
 
-Feel free to copy and paste this into your GitHub profile README. It makes the "Interests: Full-Stack Web Development" section more structured and visually appealing.

@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Travel-Property WebApp**
+- 👯 I’m looking for team to build something innovative .
 
 - 📫 How to reach me **kislayrajai06@gmail.com**
 

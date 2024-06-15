@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kislay Raj</h1>
-<h1 align="center">About me</h1>
 
+#### About Me
 - **Age:** 25 years
 - **Software Developer**
 

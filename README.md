@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kislay Raj</h1>
+<h1 align="center">About me</h1>
+
+- **Age:** 25 years
+- **Software Developer**
+
 <h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **Restaurant Table Management**

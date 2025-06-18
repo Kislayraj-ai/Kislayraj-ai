@@ -6,9 +6,9 @@
 
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Laravel Projects**
+- 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **New Techs**
 
 - 👯 I’m looking for team to build something innovative .
 

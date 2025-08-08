@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kislay Raj</h1>
-<h3>Nice , to meet you</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
-#### About Me
-- **Age:** 26 years
-- **Software Developer**
+---
 
-<h3 align="center">A passionate Software Developer</h3>
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Django Projects**
+- 🎂 **Age:** 26 years  
+- 💻 **Role:** Software Developer  
+- 🔭 **Currently Working On:** Django Projects  
+- 🌱 **Learning:** New Tech Stacks  
+- 🎯 **Next Goal:** Learning Machine Learning  
+- 📫 **Email:** kislayrajai06@gmail.com  
 
-- 🌱 I’m currently learning **New Techs**
-  
-- 🎯 1 Next Goal Learning ML
+---
 
-- 📫Reach me out at **kislayrajai06@gmail.com**
+<h3 align="center">Nice to meet you, let's connect and build something cool!</h3>
 
 <h2 align="left">Connect with me 🤝</h2>
 

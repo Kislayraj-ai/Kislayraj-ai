@@ -8,8 +8,8 @@
 - 🎂 **Age:** 26 years  
 - 💻 **Role:** Software Developer  
 - 🔭 **Currently Working On:** Django Projects  
-- 🌱 **Learning:** New Tech Stacks  
-- 🎯 **Next Goal:** Learning Machine Learning  
+- 🌱 **Learning:** Postgre SQL  
+- 🎯 **Next Goal:** Learning DSA & Machine Learning  
 - 📫 **Email:** kislayrajai06@gmail.com  
 
 ---

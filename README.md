@@ -24,7 +24,7 @@
   </a>
 
 <a href="https://linkedin.com/in/kislay-raj-ai" target="_blank">
-  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 
 

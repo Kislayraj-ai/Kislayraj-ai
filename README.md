@@ -8,8 +8,8 @@
 - 🎂 **Age:** 26 years  
 - 💻 **Role:** Software Developer  
 - 🔭 **Currently Working On:** Django Projects  
-- 🌱 **Learning:** Postgre SQL  
-- 🎯 **Next Goal:** Learning DSA & Machine Learning  
+- 🌱 **Learning:** Deploying on AWS  
+- 🎯 **Next Goal:** Learning DSA(Deep Dive) & Machine Learning  
 - 📫 **Email:** kislayrajai06@gmail.com  
 
 ---
@@ -62,6 +62,10 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>

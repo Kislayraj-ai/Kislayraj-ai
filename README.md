@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🧑‍💻 About Me<br>🎂 Age: 26 years<br>💻 Role: Software Developer<br>🔭 Currently Working On: Django Projects<br>🌱 Learning: Deploying on AWS<br>🎯 Next Goal: Learning DSA(Deep Dive) & Machine Learning<br>📫 Email: kislayrajai06@gmail.com
+🧑‍💻 About Me<br>🎂 Age: 26 years<br>💻 Role: Software Enginner<br>🔭 Currently Working On: Php & Redis<br>🌱 Learning: RabbitMQ<br>🎯 Next Goal: Learning DSA(Deep Dive) & Machine Learning<br>📫 Email: kislayrajai06@gmail.com
 
 
 ## 🌐 Socials:
